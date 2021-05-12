@@ -12,7 +12,15 @@ the focus of today's session was to understand the system's view of project mana
 
 ![Below is an flow diagram of a waterfall model](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/350px-Waterfall_model.svg.png)
 
-- Spiral Model : Above is a link to the spiral model.
+- Spiral Model : Below is a link to the spiral model.
 
 [Click here for further information on the spiral model](https://en.wikipedia.org/wiki/Spiral_model)
+
+## Agile Methodology
+- This methodology will become one of the most common methodology used in IT projects.
+- Scrum is the leading agile development method.
+  - product backlog is list of requirement for the project.
+  - sprint backlong is the list of prioritized items.
+  - a single sprint last for 2-4 weeks
+  -  daily scrum meetings last for 15 mins.
 
