@@ -23,4 +23,5 @@ the focus of today's session was to understand the system's view of project mana
   - sprint backlong is the list of prioritized items.
   - a single sprint last for 2-4 weeks
   - daily scrum meetings last for 15 mins.
+  - [Please see belwo link for the advantages and disavdantages of Scrum methodology](https://www.simplilearn.com/scrum-project-management-article)
 
