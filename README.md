@@ -8,11 +8,11 @@ the focus of today's session was to understand the system's view of project mana
 1. Political frame
 1. Symbolic frame
 ## Product Lifecycle
-1. Waterfall model : Below is a flowchart of a waterfall model.
+- Waterfall model : Below is a flowchart of a waterfall model.
 
 ![Below is an flow diagram of a waterfall model](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/350px-Waterfall_model.svg.png)
 
-1. Spiral Model : Below is a link to the spiral model.
+- Spiral Model : Below is a link to the spiral model.
 
 [Click here for further information on the spiral model](https://en.wikipedia.org/wiki/Spiral_model)
 
