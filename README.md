@@ -9,6 +9,6 @@ the focus of today's session was to understand the system's view of project mana
 1. Symbolic frame
 ## Product Lifecycle
 - Waterfall model
-![]https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/350px-Waterfall_model.svg.png
+!(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/350px-Waterfall_model.svg.png)
 - Spiral Model
 
