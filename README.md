@@ -8,11 +8,11 @@ the focus of today's session was to understand the system's view of project mana
 1. Political frame
 1. Symbolic frame
 ## Product Lifecycle
-### Waterfall model : Below is a flowchart of a waterfall model.
+1. Waterfall model : Below is a flowchart of a waterfall model.
 
 ![Below is an flow diagram of a waterfall model](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/350px-Waterfall_model.svg.png)
 
-### Spiral Model : Below is a link to the spiral model.
+1. Spiral Model : Below is a link to the spiral model.
 
 [Click here for further information on the spiral model](https://en.wikipedia.org/wiki/Spiral_model)
 
@@ -22,5 +22,5 @@ the focus of today's session was to understand the system's view of project mana
   - product backlog is list of requirement for the project.
   - sprint backlong is the list of prioritized items.
   - a single sprint last for 2-4 weeks
-  -  daily scrum meetings last for 15 mins.
+  - daily scrum meetings last for 15 mins.
 
